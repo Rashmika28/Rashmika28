@@ -173,3 +173,54 @@ Backend & REST APIs       ██████████████████
 Data Structures           █████████████████░░░
 React.js                  ████████████████░░░░
 Cloud & Deployment        ███████████████░░░░░
+
+---
+
+## 06 — ACHIEVEMENTS
+
+- Solved **200+ problems on LeetCode**, strengthening Data Structures & Algorithms.
+- Led multiple academic software development projects as **Team Lead**.
+- Built and deployed web applications using **Django and AWS Lightsail**.
+
+---
+
+## 07 — CERTIFICATIONS
+
+- **Full Stack Development** — Novi Tech
+- **Advanced Software Engineering Job Simulation** — Walmart Global Tech (Forage)
+- **Data Analytics Job Simulation** — Deloitte (Forage)
+
+---
+
+## 08 — GITHUB ACTIVITY
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rashmika28&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmika28&layout=compact&hide_border=true&theme=transparent" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rashmika28&hide_border=true&theme=transparent" />
+</p>
+
+---
+
+## 09 — CONNECT
+
+Open to opportunities in **Full Stack Development, Software Development, Backend Development, and Web Development**.
+
+<p align="left">
+  <a href="https://portfolio-rashmika-thattapally-47762e.netlify.app/">Portfolio</a>
+  ·
+  <a href="https://github.com/Rashmika28">GitHub</a>
+  ·
+  <a href="https://www.linkedin.com/in/rashmika-thattapally/">LinkedIn</a>
+  ·
+  <a href="https://leetcode.com/u/Thattapally_Rashmika/">LeetCode</a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Building. Learning. Improving.</sub>
+</p>
