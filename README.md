@@ -1,4 +1,3 @@
-
 # RASHMIKA THATTAPALLY
 
 ### Full Stack Developer · Software Developer
@@ -167,12 +166,8 @@ Performed data analysis and forensic technology tasks and created data visualiza
 
 ## 05 — CURRENT FOCUS
 
-```text
-Full Stack Development    ███████████████████░░
-Backend & REST APIs       ██████████████████░░
-Data Structures           █████████████████░░░
-React.js                  ████████████████░░░░
-Cloud & Deployment        ███████████████░░░░░
+`Full Stack Development` · `Backend & REST APIs` · `React.js`  
+`Data Structures & Algorithms` · `Cloud & Deployment`
 
 ---
 
