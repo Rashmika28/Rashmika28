@@ -190,12 +190,15 @@ Performed data analysis and forensic technology tasks and created data visualiza
 ## 08 — GITHUB ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rashmika28&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmika28&layout=compact&hide_border=true&theme=transparent" height="165" />
+  <a href="https://github.com/Rashmika28">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rashmika28&theme=github-compact&hide_border=true&area=true" width="95%" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rashmika28&hide_border=true&theme=transparent" />
+  <a href="https://github.com/Rashmika28?tab=repositories">
+    <strong>Explore my repositories →</strong>
+  </a>
 </p>
 
 ---
